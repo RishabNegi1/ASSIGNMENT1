@@ -22,3 +22,4 @@ int main()
         cout<<"the string is not palindrome"<<endl;
         return 0;
 }
+
